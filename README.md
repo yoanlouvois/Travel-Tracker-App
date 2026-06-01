@@ -35,6 +35,7 @@ It enables marking countries as visited or to visit, adding custom places, and c
 
 ### Frontend
 - JavaScript
+- Bootstrap
 - Leaflet
 - HTML / CSS
 
